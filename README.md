@@ -2,6 +2,14 @@
 
 Note:this is a page for my ideas only,the project is still incomplete and further changes will be announced later.
 
+# Modules Used
+
+
+![OASIS Logo](https://i.postimg.cc/v8kXP5wd/OASIS.png)
+
+Trees by OASIS PROJECT
+
+Grass System by [MinionsArt](https://www.youtube.com/@MinionsArt)
 
 # Checklist
 
