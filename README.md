@@ -54,3 +54,8 @@ Make sure you paste the following message:
 
 > Created By ScratchCoder135 on GitHub
 
+# Contribution
+Download this project into your local machine. Reserve the following space for the game to run:
+
+> 15GB Storage
+
