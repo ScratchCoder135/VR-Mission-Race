@@ -23,13 +23,19 @@ Grass System by [MinionsArt](https://www.youtube.com/@MinionsArt)
 
 ✔️Terrain with texture
 
-❎Rocks and nature (grass and flowers)
+✔️grass
+
+✔️Trees
+
+❎Flowers
 
 ❎Particles
 
 ❎Sound and Music effect
 
-❎Lighting effect & Skyboxes
+❎Lighting effect
+
+✔️Skyboxes
 
 ❎Game Logic
 
@@ -37,7 +43,7 @@ Grass System by [MinionsArt](https://www.youtube.com/@MinionsArt)
 
 ❎Animation
 
-❎Post-Processing
+✔️Post-Processing
 
 
 
